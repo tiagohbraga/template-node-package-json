@@ -1,0 +1,24 @@
+{
+  "name": "template-node-package-json",
+  "version": "1.0.0",
+  "description": "Aula intro",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "Brazil": "node index.js Brazil",
+    "vazio": "node index"
+
+    
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagohbraga/template-node-package-json.git"
+  },
+  "author": "Tiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagohbraga/template-node-package-json/issues"
+  },
+  "homepage": "https://github.com/tiagohbraga/template-node-package-json#readme"
+}
